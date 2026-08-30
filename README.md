@@ -1,2 +1,3 @@
 # testrepo
-dungth1 thuc hanh github
+##Editing a file
+Its a markdown file in this responsitory
